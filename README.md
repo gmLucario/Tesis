@@ -13,7 +13,7 @@ Programas en mathematica desarrollados para describir un mecanismo 5R simétrico
 
 ## Descripción cada archivo
 ### Mathematica files
-- CinematicaDirecta_Inversa.pdf
+- CinematicaDirecta_Inversa.pdf <br/>
 Los pasos que se siguieron para obtener las ecuaciones que describen la cinemática directa e inversa del mecanismo.
 
 - Plantillas.pdf
